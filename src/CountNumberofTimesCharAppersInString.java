@@ -18,8 +18,5 @@ public class CountNumberofTimesCharAppersInString {
 			}
 		}
 		System.out.println("The number of times character appeared in the string is "+ j);
-		
-
 	}
-
 }
